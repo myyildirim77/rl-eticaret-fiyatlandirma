@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?style=for-the-badge)](https://matplotlib.org)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 *Q-Learning ve SARSA algoritmalarıyla rakip fiyatı ve stok durumuna göre  
 kârı maksimize eden optimal fiyatlandırma politikası öğrenen bir RL ajanı.*
