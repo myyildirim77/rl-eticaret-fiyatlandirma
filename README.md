@@ -387,16 +387,3 @@ Bu bir sınıflandırma problemi değildir. Doğru/yanlış etiket yoktur. Başa
 Bir politika "iyi" ise yüksek ödül toplar. Convergence analizi, bu ödülün zamanla nasıl arttığını ve ne zaman stabil hale geldiğini gösterir.
 </details>
 
----
-
-## 📜 Lisans
-
-MIT License — dilediğiniz gibi kullanabilirsiniz.
-
----
-
-<div align="center">
-
-*Bu proje Pekiştirmeli Öğrenme dersi kapsamında geliştirilmiştir.*
-
-</div>
